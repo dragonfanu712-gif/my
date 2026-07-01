@@ -1,12 +1,1 @@
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20120/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%8C%90%20XX%20%7C%20Trojan%20%7C%20%E2%9A%A1%20923ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20010/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20Trojan%20%7C%20%E2%9A%A1%20925ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20061/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%8C%90%20XX%20%7C%20Trojan%20%7C%20%E2%9A%A1%201043ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20034/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20Trojan%20%7C%20%E2%9A%A1%201134ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20083/?type=tcp&security=tls&sni=SG.catxstar.com&allowInsecure=1#%F0%9F%8C%90%20XX%20%7C%20Trojan%20%7C%20%E2%9A%A1%201196ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20089/?type=tcp&security=tls&sni=SG.catxstar.com&allowInsecure=1#%F0%9F%8C%90%20XX%20%7C%20Trojan%20%7C%20%E2%9A%A1%201213ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20029/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20Trojan%20%7C%20%E2%9A%A1%201301ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20024/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%8C%90%20XX%20%7C%20Trojan%20%7C%20%E2%9A%A1%201409ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20041/?type=tcp&security=tls&sni=de.catxstar.com&allowInsecure=1#%F0%9F%8C%90%20XX%20%7C%20Trojan%20%7C%20%E2%9A%A1%201534ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20104/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%8C%90%20XX%20%7C%20Trojan%20%7C%20%E2%9A%A1%201885ms
-vless://d9f642bb-f4ca-480f-a041-1461b5eec186@176.109.85.83:11443?encryption=none&flow=&security=reality&type=grpc&sni=id.pervye.ru&fp=chrome&pbk=9019nlwOynJWewbm1JlQd8f5aADsyxpQwnDPzbsYLzw&sid=e84aef2f1a880e80&serviceName=ns&authority=id.pervye.ru#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%E2%9A%A1%201965ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20068/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%8C%90%20XX%20%7C%20Trojan%20%7C%20%E2%9A%A1%202635ms
+vless://d9f642bb-f4ca-480f-a041-1461b5eec186@176.109.85.83:11443?encryption=none&security=reality&sni=id.pervye.ru&fp=chrome&pbk=9019nlwOynJWewbm1JlQd8f5aADsyxpQwnDPzbsYLzw&sid=e84aef2f1a880e80&allowinsecure=0&type=grpc&mode=gun&authority=id.pervye.ru&serviceName=ns#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%E2%9A%A1%20893ms
